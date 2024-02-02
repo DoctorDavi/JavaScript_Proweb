@@ -46,7 +46,7 @@
 
 // prompt() - выводит диалоговое окно для ввода информации от пользователя 
 // alert() - выводит сообщение для пользователя
-var yourName = prompt('введите имя')
-alert('Привет ' + yourName)
-var yourAge = prompt('Введите возраст')
-alert('вам ' + yourAge + ' лет/года')
+// var yourName = prompt('введите имя')
+// alert('Привет ' + yourName)
+// var yourAge = prompt('Введите возраст')
+// alert('вам ' + yourAge + ' лет/года')
